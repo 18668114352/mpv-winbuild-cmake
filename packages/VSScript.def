@@ -4,7 +4,7 @@
 ; written by Kai Tietz 2008
 ;
 LIBRARY "VSScript.dll"
-EXPORTS 
+EXPORTS
 getVSScriptAPI@4
 vsscript_clearEnvironment@4
 vsscript_clearOutput@8
