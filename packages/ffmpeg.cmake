@@ -6,7 +6,7 @@ ExternalProject_Add(ffmpeg
         bzip2
         lame
         lcms2
-        openssl
+        openss
         libssh
         libsrt
         libass
